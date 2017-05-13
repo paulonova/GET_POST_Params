@@ -1,0 +1,7 @@
+#Sat May 13 12:06:03 CEST 2017
+base.0=D\:\\ONLINE_PIZZA\\LYNDA_COM\\Exercise Files\\Ch05\\05_01\\GETParams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_54927117dfeadd1c07bd487604e7278101ba6123
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\ONLINE_PIZZA\\LYNDA_COM\\Exercise Files\\Ch05\\05_01\\GETParams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3668ff53db4c98be95cd9334d493826c39d1abaf\\classes.dex
+base.1=D\:\\ONLINE_PIZZA\\LYNDA_COM\\Exercise Files\\Ch05\\05_01\\GETParams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3668ff53db4c98be95cd9334d493826c39d1abaf
+file.0=D\:\\ONLINE_PIZZA\\LYNDA_COM\\Exercise Files\\Ch05\\05_01\\GETParams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_54927117dfeadd1c07bd487604e7278101ba6123\\classes.dex
